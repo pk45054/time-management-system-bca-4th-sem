@@ -1,0 +1,1 @@
+This a time managment system of bca 4th sem college project. it deals with college based routine.it is useful for teacher and supervisor. using basic php, javaScipt, Html, CSS, SQL, etc. 
